@@ -1,2 +1,3 @@
 <h1> moja strona <h1>
 <p> sgfjhdfjsdf sdfsf sfsf </p>
+<a href = "http://wp.pl">wp/a>
